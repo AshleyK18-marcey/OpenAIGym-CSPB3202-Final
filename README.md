@@ -15,4 +15,4 @@ pip install gymnasium[classic-control]
 [Demo](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/aska1234_colorado_edu/EYyAhIvlUsZPkwbFQCrcOS8BsBHwNRXfUT75PDcPJBXgNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2KHsZO)
 
 # Project Report 
-[Report](Final Project - Report.pdf)
+[Report]([Final Project - Report.pdf](https://github.com/AshleyK18-marcey/OpenAIGym-CSPB3202-Final/blob/main/Final%20Project%20-%20Report.pdf))
